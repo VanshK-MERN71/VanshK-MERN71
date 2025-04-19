@@ -26,7 +26,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;" />
+  <div style="width: 40px; height: 40px; background-color: #f7df1e; display: flex; align-items: center; justify-content: center; border-radius: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="28" height="28"/>
+  </div>
 </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
