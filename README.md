@@ -1,7 +1,7 @@
 
 ![logo](https://github.com/VanshK-MERN71/VanshK-MERN71/blob/main/Pink%20Gaming%20YouTube%20Channel%20Art.png)
 <h1 align="center">Hi 👋, I'm Vansh Khanna</h1>
-<h3 align="center">Passionate about Full Stack MERN web and mobile application develop using React.js and React Native(Expo Cli) and State management using redux-tookit, Backed using Node.js, Express.js, Mongodb and UI/UX Designer!</h3>
+<h3 align="center">Passionate about Full Stack MERN web and mobile application development using React.js and React Native (Expo CLI), with state management via Redux Toolkit. Skilled in backend development using Node.js, Express.js, and MongoDB. Also experienced in UI/UX design.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
