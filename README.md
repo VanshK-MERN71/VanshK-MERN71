@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshk-mern71&label=Profile%20views&color=0e75b6&style=flat" alt="vanshk-mern71" /> </p>
 
-- 🌱 Currently learning advanced backend development with Node.js, Express.js, and MongoDB, while also exploring React Native (CLI + Expo) for mobile apps and React.js for modern web development.
+- 🌱 Currently learning **advanced backend development with Node.js, Express.js, and MongoDB, while also exploring React Native (CLI + Expo) for mobile apps and React.js for modern web development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VanshK-MERN71](https://github.com/VanshK-MERN71)
 
-- 💬 Ask me about **React Native,Javascript,Express.js,UI/UX Figma**
+- 💬 Ask me about **React.js and some React Native,Javascript,Express.js, Redux-toolkit**
 
 - 📫 How to reach me **vanshkhanna9140@gmail.com**
 
