@@ -27,7 +27,7 @@
 <p align="left">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
   <div style="width: 40px; height: 40px; background-color: #f7df1e; display: flex; align-items: center; justify-content: center; border-radius: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="28" height="28"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="24" height="24"/>
   </div>
 </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
